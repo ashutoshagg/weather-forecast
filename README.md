@@ -42,7 +42,7 @@ To Begin with the development you will need:
 - testing
   - Contains mock data file
 - weather
-  - Feature module that contains all the weather related classes
+  Feature module that contains all the weather related classes
   - models
     - Contains interfaces for weather api
   - services
@@ -51,9 +51,11 @@ To Begin with the development you will need:
     - global state that is used to manage city and its tempature at 12AM, 6AM, 6PM and 12PM
   - utils
     - Contains constants and utility files
+  - weather component
+    - Base component of Weather module having Search and Results components 
 - assets
   - Contains images and fonts for the app
 - utils
   - Contains constants and utility files
 - environments
-  - Container dev and prod url and keys
+  - Container dev and prod weather forecast url and API_KEY
