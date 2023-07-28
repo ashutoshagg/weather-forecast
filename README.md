@@ -26,7 +26,7 @@ To Begin with the development you will need:
 ## **App Demo**
 
 <p align="center">
-<img width="700" height="300" src="https://github.com/ashutoshagg/weather-forecast/blob/main/demo/ss0.png" alt="logo">
+<img  src="https://github.com/ashutoshagg/weather-forecast/blob/main/demo/ss0.png" alt="logo">
 </p>
 
 ## **How the app is structured**
