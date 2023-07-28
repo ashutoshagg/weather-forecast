@@ -42,7 +42,7 @@ To Begin with the development you will need:
 - testing
   - Contains mock data file
 - weather
-  Feature module that contains all the weather related classes
+  - Feature module that contains all the weather related classes
   - models
     - Contains interfaces for weather api
   - services
